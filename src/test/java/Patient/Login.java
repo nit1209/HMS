@@ -6,7 +6,7 @@ public class Login
 		
 		
 		
-		System.out.println("sucessfully loggout");
+		System.out.println("sfully loggout");
 		
 		
 		
