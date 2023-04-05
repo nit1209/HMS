@@ -6,7 +6,7 @@ public class DEMO {
 	@Test
 	public void method()
 	{		
-		System.out.println("Doneeeeeeeeeeeeeeeeeee");
+		System.out.println("Done");
 	}
 
 }
