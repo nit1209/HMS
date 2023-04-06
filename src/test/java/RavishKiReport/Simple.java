@@ -4,11 +4,12 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class Simple {
-@Parameters("browser")
+
 @Test
-public void mI(String browser)
+public void mI()
 {
-	System.out.println("Kuch bhi");
+	String Browser = System.getProperty("Browser");
+	System.out.println(Browser);
 }
 	
 
